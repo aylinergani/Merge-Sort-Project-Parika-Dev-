@@ -1,2 +1,2 @@
-# Merge-Sort-Project-Parika-Dev-
+# Merge-Sort-Project-Patika-Dev-
 Merge Sort Project / Parika De
